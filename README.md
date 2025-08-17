@@ -2,7 +2,7 @@
 
 ![AuraControl Banner](./assetsgif/demo_gif.gif)
 
-**AirNav** is a powerful Python-based suite that transforms your interaction with your computer. By combining real-time hand gesture recognition with a robust voice command system, it allows for a seamless, hands-free control experience. Move your mouse, click, drag, type, and execute complex commands—all without touching your keyboard or mouse.
+**AirNav** is a powerful Python-based suite that transforms your interaction with your computer. By combining real-time hand gesture recognition with a robust voice command system, it allows for a seamless, hands-free control experience. Move your mouse, click, drag, type, and execute complex commands - all without touching your keyboard or mouse.
 
 This project integrates two core modules that run simultaneously:
 1.  **Gesture Control**: Uses your webcam to track hand movements for precise mouse control.
